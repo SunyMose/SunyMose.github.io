@@ -507,6 +507,7 @@ a {
   text-align: center;
 }
 #header .profilepic img {
+  background: url("/img/touxiang.jpg") center no-repeat #aaf;
   width: 20%;
   height: 20%;
   -webkit-border-radius: 300px;
